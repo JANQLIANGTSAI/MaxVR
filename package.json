@@ -1,0 +1,22 @@
+{
+  "name": "maxvr",
+  "version": "1.0.0",
+  "description": "Max's VR Showcase Repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JANQLIANGTSAI/MaxVR.git"
+  },
+  "author": "Max J. Tsai (mt8168@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JANQLIANGTSAI/MaxVR/issues"
+  },
+  "homepage": "https://github.com/JANQLIANGTSAI/MaxVR#readme",
+  "dependencies": {
+    "aframe": "^0.3.2"
+  }
+}
